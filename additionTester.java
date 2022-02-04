@@ -6,6 +6,6 @@ public class additionTester{
 
   @Test
   public void MultiplyAddTest(){
-      assertEquals(100, Apple.MultiplyAdd(5, 6));
+      assertEquals(28, Apple.MultiplyAdd(5, 6));
   }
 }
